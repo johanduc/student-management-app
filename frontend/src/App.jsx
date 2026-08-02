@@ -4,7 +4,7 @@ import axios from "axios";
 // Cấu hình đường dẫn gốc tới Backend Golang
 //const API_URL = "http://localhost:8080/api";
 //const API_URL = "/api";
-const API_URL = "https://student-backend-zwm0.onrender.com";
+const API_URL = "https://student-backend-zwm0.onrender.com/api";
 
 function App() {
   // --- Các trạng thái (State) quản lý ứng dụng ---
